@@ -53,3 +53,4 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [SamJamCul's Solution](https://github.com/SamJamCul/etch-a-sketch) - [View in Browser](https://samjamcul.github.io/etch-a-sketch/)
 * [Niko Caron's Solution](https://github.com/ncaron/etch-a-sketch/) - [View in Browser](https://ncaron.github.io/etch-a-sketch/)
 * [Nick Leake's Solution](https://github.com/nleake/etchasketch) - [View in Browser](https://nleake.github.io/etchasketch/)
+* [Technicolor1's Solution](https://github.com/technicolor1/odin-etch_sketch) - [View in Browser](https://technicolor1.github.io/odin-etch_sketch/)
